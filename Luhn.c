@@ -1,3 +1,5 @@
+// Luhn.c
+// Luhn (aka mod 10) algorithm
 #include <stdio.h>
 #include <math.h>
 #include <inttypes.h>
